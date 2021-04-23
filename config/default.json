@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://mongoatlas:mongoatlas@devconnector-hrrx9.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "",
   "jwtsecret": "mysecret"
 }
